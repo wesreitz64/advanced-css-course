@@ -1,0 +1,41 @@
+[33mcommit 6808fee567feb670c48f7dc8c1f16f1725627a0b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Mon Jan 24 01:13:45 2022 -0600
+
+    added files
+
+[33mcommit ea4894355683e6817851628d96b228c249d18185[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 21:29:25 2022 -0600
+
+    added color gradient to image over form
+
+[33mcommit 5a48e8f039015aa13d74812913f3d3c6e62e3bcd[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 13:59:16 2022 -0600
+
+    finished building the stories section
+
+[33mcommit 2dd6b503867ab9190ef415d96eee35e2d8fb0dab[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 13:51:54 2022 -0600
+
+    added image and image blur
+
+[33mcommit cb430480166513081eb86e773292b7e99639e2ac[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 03:27:26 2022 -0600
+
+    added to starter/ story
+
+[33mcommit 6adb2b093d5332d35853340201a24d8a92f11f63[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 02:47:05 2022 -0600
+
+    testing commits
+
+[33mcommit ce6d63e11e51e215881bbf0e81af54a31178e04c[m
+Author: wes reitz <wesreitz@gmail.com>
+Date:   Sun Jan 23 01:49:21 2022 -0600
+
+    initial commit
